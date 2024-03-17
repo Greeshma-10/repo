@@ -1,6 +1,2 @@
 helllooo
-<<<<<<< HEAD
-hieie
-<<<<<<< HEAD
-hruuuS
-
+helloo
